@@ -1,4 +1,4 @@
-package com.example.remote
+package com.example.remote.source
 
 import com.example.data.RemoteDataSource
 import com.example.data.models.BaseData

@@ -1,6 +1,8 @@
-package com.example.data.models
+package com.example.local
 
-data class AsteroidData(
+import com.example.data.models.CloseApproachData
+
+data class AsteroidLocal(
     val id: String,
     val absoluteMagnitude: Double,
     val estimatedDiameter: String,
