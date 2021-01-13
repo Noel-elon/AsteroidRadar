@@ -2,7 +2,7 @@ package com.udacity.asteroidradar.di
 
 import android.content.Context
 import androidx.room.Room
-import com.example.local.AsteroidDatabase
+import com.example.local.database.AsteroidDatabase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

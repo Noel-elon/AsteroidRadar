@@ -5,5 +5,6 @@ data class AsteroidData(
     val absoluteMagnitude: Double,
     val estimatedDiameter: String,
     val isPotentiallyHazardous: Boolean,
-    val closeApproachData: List<CloseApproachData>
+    val relativeVelocity: String,
+    val missDistance: String
 )
