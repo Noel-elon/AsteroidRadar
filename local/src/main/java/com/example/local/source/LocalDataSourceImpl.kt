@@ -1,6 +1,6 @@
 package com.example.local.source
 
-import com.example.data.LocalDataSource
+import com.example.data.source.LocalDataSource
 import com.example.data.models.AsteroidData
 import com.example.local.database.AsteroidDatabase
 import com.example.local.mapper.LocalMapper

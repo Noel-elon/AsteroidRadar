@@ -1,4 +1,4 @@
-package com.example.data
+package com.example.data.source
 
 import com.example.data.models.AsteroidData
 import kotlinx.coroutines.flow.Flow

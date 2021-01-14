@@ -1,6 +1,6 @@
 package com.example.remote.source
 
-import com.example.data.RemoteDataSource
+import com.example.data.source.RemoteDataSource
 import com.example.data.models.BaseData
 import com.example.remote.api.AsteroidApiService
 import com.example.remote.mappers.RemoteMapper

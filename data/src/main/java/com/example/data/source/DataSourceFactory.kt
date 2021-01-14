@@ -1,4 +1,4 @@
-package com.example.data
+package com.example.data.source
 
 import javax.inject.Inject
 
